@@ -1,4 +1,4 @@
-# Java-campaign-CRUD
+# Java CRUD campaign webapp
 
 * **Technological context**
 
